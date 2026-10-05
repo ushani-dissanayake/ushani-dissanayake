@@ -1,6 +1,6 @@
 # Hi, I'm Ushani Dissanayake 👋
 
-### Software Engineering | Full-Stack Development | Mobile | IoT & AI/ML
+### Software Engineering | Full-Stack Development | Mobile | IoT
 
 I'm a Software Engineering undergraduate passionate about designing and developing practical, reliable and user-focused software solutions.
 
