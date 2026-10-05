@@ -2,7 +2,7 @@
 
 ### Software Engineering | Full-Stack Development | Mobile | IoT
 
-I'm a Software Engineering undergraduate passionate about designing and developing practical, reliable and user-focused software solutions.
+I'm a Software Engineering graduate passionate about designing and developing practical, reliable and user-focused software solutions.
 
 My interests span full-stack development, Android application development, IoT systems, machine learning and data visualization. I enjoy transforming ideas into real-world applications while continuously learning and improving my technical skills.
 
