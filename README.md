@@ -2,7 +2,7 @@
 
 ### Software Engineering | Full-Stack Development | Mobile | IoT & AI/ML
 
-I'm a Software Engineering graduate passionate about designing and developing practical, reliable and user-focused software solutions.
+I'm a Software Engineering undergraduate passionate about designing and developing practical, reliable and user-focused software solutions.
 
 My interests span full-stack development, Android application development, IoT systems, machine learning and data visualization. I enjoy transforming ideas into real-world applications while continuously learning and improving my technical skills.
 
@@ -12,7 +12,6 @@ My interests span full-stack development, Android application development, IoT s
 
 - 🎓 BSc (Hons) in Software Engineering
 - 💻 Passionate about Software & Full-Stack Development
-- 📱 Interested in Android and Mobile Application Development
 - 🌐 Experienced in developing web-based applications
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 - 🔌 Experienced with IoT and real-time monitoring systems
@@ -27,22 +26,22 @@ My interests span full-stack development, Android application development, IoT s
 `Python` `Java` `Kotlin` `JavaScript` `PHP` `C++` `SQL`
 
 ### Frontend & Mobile
-`React.js` `React Native` `Jetpack Compose` `HTML` `CSS`
+`React.js` `React Native` `HTML` `CSS`
 
 ### Backend
-`FastAPI` `Spring Boot` `NestJS` `REST APIs`
+`FastAPI` `REST APIs`
 
 ### Database & Cloud
 `Firebase` `MySQL`
 
 ### AI & Machine Learning
-`Scikit-learn` `Pandas` `NumPy` `Random Forest` `Decision Tree`
+`Pandas` `NumPy` `Random Forest` `Decision Tree`
 
 ### IoT
 `ESP32` `Arduino` `IoT Sensors`
 
 ### Data Visualization & GIS
-`Power BI` `Microsoft Excel` `QGIS` `ArcGIS`
+`Power BI` `Microsoft Excel` `QGIS` 
 
 ### Tools
 `Git` `GitHub` `Android Studio` `VS Code` `Figma`
@@ -92,6 +91,22 @@ An interactive geographical dashboard developed to visualize and analyze coastal
 
 ---
 
+### 📚 Library Management System
+
+A web-based library management application developed using **PHP, MySQL, HTML and CSS**, with separate functionality for librarians and members.
+
+**Key Features:**
+- Librarian and member authentication
+- Book management
+- Member registration and verification
+- Book request management
+- MySQL database integration
+- Role-based functionality
+
+🔗 [View Project Repository](https://github.com/ushani-dissanayake/Library-Management-System)
+
+---
+
 ## 🎯 Current Focus
 
 - Building real-world software projects
@@ -107,6 +122,7 @@ An interactive geographical dashboard developed to visualize and analyze coastal
 ## 📫 Connect With Me
 
 📧 **Email:** ushaniparindya@gmail.com  
+
 📍 **Colombo, Sri Lanka**
 
 ---
