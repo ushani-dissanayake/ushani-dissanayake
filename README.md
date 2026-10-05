@@ -70,6 +70,8 @@ FloodSense is an intelligent flood monitoring and early-warning system that comb
 
 `ESP32` `Firebase` `Python` `FastAPI` `Scikit-learn` `Kotlin` `Jetpack Compose`
 
+🔗 [View Project Repository](https://github.com/ushani-dissanayake/FloodSense)
+
 ---
 
 ## 🗺️ Geographical Digital Dashboard
@@ -88,6 +90,8 @@ An interactive geographical dashboard developed to visualize and analyze coastal
 ### 🔧 Technologies
 
 `Power BI` `Microsoft Excel` `QGIS` `ArcGIS`
+
+🔗 [View Project Repository](https://github.com/ushani-dissanayake/Coastal-Digital-Dashboard)
 
 ---
 
